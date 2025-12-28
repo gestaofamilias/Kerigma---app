@@ -1,0 +1,7 @@
+{
+  "name": "Kerigma Gestão de Famílias",
+  "description": "Um sistema CRM completo para gestão de famílias em comunidades religiosas, incluindo painel de controle, cadastro de novos membros e acompanhamento espiritual/social.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
